@@ -101,7 +101,7 @@ class Test {
             System.out.println("Browser title: "+web.getTitle());
             web.getScreenshot();
             web.navigate();
-            System.out.println("----------------------");
+            System.out.println("-------------------------------------");
 
         }
     }
